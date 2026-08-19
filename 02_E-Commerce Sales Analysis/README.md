@@ -41,10 +41,17 @@ The data is synthetic, which means it is computer generated but realistic. I cho
 
 ## Dashboard pages
 
-- Introduction
-- Sales Overview
-- High-Value Order Drivers
-- Key Takeaways and Recommendations
+### Introduction
+![Introduction](Intro.png)
+
+### Sales Overview
+![Sales Overview](Sales_Overview.png)
+
+### High-Value Order Drivers
+![High-Value Order Drivers](Key_influencers.png)
+
+### Key Takeaways and Recommendations
+![Key Takeaways](Key_Takeways.png)
 
 ## Key insights
 
